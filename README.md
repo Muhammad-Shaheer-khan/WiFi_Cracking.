@@ -1,6 +1,6 @@
 # WiFi_Cracking. <img src='https://github.com/Muhammad-Shaheer-khan/WiFi_Cracking./blob/master/images/WC.png' height=40>
-  
-This program helps you to find password of all saved wifi network in your PC.
+ 
+This program helps you to find password of all saved wifi network in your PC. Umm, it`s not a cracking but just a type, in backend your terminal is using for desire product. 
 Run this pyhton code in your python environment, You will see the all user names of previously saved wifi network in your PC or any else you are using.
 
 ## Demo <img src='https://github.com/Muhammad-Shaheer-khan/WiFi_Cracking./blob/master/images/gitCat.png' height=40>

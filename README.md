@@ -1,16 +1,16 @@
 # WiFi_Cracking. <img src='https://github.com/Muhammad-Shaheer-khan/WiFi_Cracking./blob/master/images/WC.png' height=40>
  
-This program helps you to find password of all saved wifi network in your PC. Umm, it`s not a cracking but just a type, in backend your terminal is using for desire product. 
-Run this pyhton code in your python environment, You will see the all user names of previously saved wifi network in your PC or any else you are using.
+This program helps you find the password of all saved wifi networks on your PC. Umm, it`s not cracking but just a type, in the backend your terminal is using for the desired product. 
+Run this Python code in your Python environment, You will see the all user names of the previously saved wifi network in your PC or any else you are using.
 
 ## Demo <img src='https://github.com/Muhammad-Shaheer-khan/WiFi_Cracking./blob/master/images/gitCat.png' height=40>
 <img src='https://github.com/Muhammad-Shaheer-khan/WiFi_Cracking./blob/master/images/wifi-cracking_1YIFoBgi_Trim.gif' >
 
-## ❌Some Error may be raise like any library(subproces, re, pyfiglet) not found:
-In this case you have to open your terminal/cmd and type "pip install library-name" 
+## ❌Some Error maybe raise like any library(subprocess, re, pyfiglet) not found:
+In this case, you have to open your terminal/cmd and type "pip install library-name" 
 
 ## Connect👨🏻‍💻:
-For more you guys can cannot with me on www.linkedin.com/in/m-shaheer-khan
+For more stuff, you guys can connect with me on www.linkedin.com/in/m-shaheer-khan
 ## Contribution:👦🏻
 If any other case you all are free to contribute.👨🏻‍💻
 
